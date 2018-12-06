@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>PTbac2</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>PTbac2</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\PTbac2.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>src\PTbac2.java.sdk</path>
+			<symbols>
+				<symbol>PTbac2</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
